@@ -6,8 +6,8 @@ I'm a Fullstack, And, I have a degree in systems analysis and development and I'
 
 #### Current stack
 - ⚡️ Main language: `Javascript`
-- 📡 Backend: `Nodejs`
-- 🎉 Frontend: `Reactjs`, `HTML`, `CSS3`, `Javascript`
+- 📡 Backend: `Nodejs`, `PHP`
+- 🎉 Frontend: `Reactjs`, `Vuejs`, `HTML`, `CSS3`, `Javascript`
 - 🎨 Layout Design: `Figma`
 - 📦️ Version code control: `Git & Github`
 - 🔧 Tools: `VsCode`, `Markdown`
