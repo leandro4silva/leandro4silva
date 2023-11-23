@@ -11,7 +11,6 @@ I'm a Developer, And, I have a degree in systems analysis and development and I'
 - 🎨 Layout Design: `Figma`
 - 📦️ Version code control: `Git & Github`
 - 🔧 Tools: `VsCode`, `Markdown`
-- 🌎 I'm mostly active within the `Rocketseat Community`
 
 #### Contacts
 - 📬 Email: leandro94.a.s@gmail.com
