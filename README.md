@@ -7,7 +7,7 @@ I'm a Developer, And, I have a degree in systems analysis and development and I'
 #### Current stack
 - ⚡️ Main language: `Javascript`|`Typescript`|`C#`
 - 📡 Backend: `Nodejs`, `.NET Core`
-- 🎉 Frontend: `Reactjs`, `Vuejs`, `HTML`, `CSS3`, `Javascript`
+- 🎉 Frontend: `Reactjs`, `HTML`, `CSS3`, `Javascript`
 - ☁  Cloud: `AWS`
 - 🎨 Layout Design: `Figma`
 - 📦️ Version code control: `Git & Github`
